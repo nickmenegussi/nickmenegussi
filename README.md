@@ -1,7 +1,7 @@
 ## Olá!Eu sou Nicolas Menegussi!
 
 - 🔭 Hoje estudando  Front - end
-- 🌱 Hoje estudando Python e html
+- 🌱 E estudando Python
 
 <div>
 <a href="https://github.com/nickmenegussi">
