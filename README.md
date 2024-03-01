@@ -1,6 +1,6 @@
 ## Olá!Eu sou Nicolas Menegussi!
 
-- 🔭 Hoje estudando  Front - end e Back - end
+- 🔭 Hoje estudando  Front e Back
 - 💎 Estudando Python e Javascript
 - 👨‍💻 Esse ano vou aprender mais sobre Javascript, React,MySQL e Python 
 
