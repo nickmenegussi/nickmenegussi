@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native and React**
 
-- 👨‍💻 All of my projects are available at [nickmenegussi]((https://github.com/nickmenegussi?tab=repositories))
+- 👨‍💻 All of my projects are available at https://github.com/nickmenegussi?tab=repositories
 
 - 📝 I regularly write articles on [https://medium.com/@nicolasmramos09](https://medium.com/@nicolasmramos09)
 
