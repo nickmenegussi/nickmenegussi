@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👋 Nicolas Menegussi Ramos</h1>
-<h3 align="center">Full Stack Developer | TypeScript • React • Node.js</h3>
+<h3 align="center">Full Stack Developer | TypeScript • React • Node.js • C# • Flutter</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nickmenegussi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -29,7 +29,7 @@ I'm a passionate Full Stack Developer from **Brazil** 🇧🇷 with a strong fou
 
 - **Currently Working On:** CEO (Centro Espírita Online) - Spiritual community management platform
 - **Learning:** React Native, Cloud Architecture & DevOps
-- **Expertise:** JavaScript, TypeScript, React, Node.js, C#, Python, Java
+- **Expertise:** JavaScript, TypeScript, React, Node.js, C#, Flutter, Python, Java
 - **Focus:** Full Stack Development, API Design, Database Architecture, Web Solutions
 - **Blog:** [Medium](https://medium.com/@nicolasmramos09) - Sharing development insights
 - **Location:** Brazil 🌎
@@ -56,6 +56,7 @@ I'm a passionate Full Stack Developer from **Brazil** 🇧🇷 with a strong fou
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
