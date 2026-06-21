@@ -1,22 +1,38 @@
-![Header](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ[...)
+<div align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="Coding" width="350" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Nicolas Menegussi Ramos</h1>
-<h3 align="center">A passionate Full Stack developer from Brazil 🚀</h3>
+<h1 align="center">👋 Nicolas Menegussi Ramos</h1>
+<h3 align="center">Full Stack Developer | TypeScript • React • Node.js</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nickmenegussi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickmenegussi&label=Profile%20views&color=0e75b6&style=flat" alt="nickmenegussi" /> </p>
+<div align="center">
+  <a href="https://linkedin.com/in/nicolas-menegussi-85b933293" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@nicolasmramos09" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:nicolasmramos09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
 
 ## 🎯 About Me
 
-- 🔭 I'm currently working on **CEO (Centro Espírita Online)** - A comprehensive platform for spiritual community management
-- 🌱 I'm currently learning **React Native, Advanced React patterns, and Cloud Architecture**
-- 💼 Full Stack Developer with experience in **JavaScript, TypeScript, C#, Python, and Java**
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/nickmenegussi?tab=repositories)
-- 📝 I regularly write articles on [Medium](https://medium.com/@nicolasmramos09)
-- 💬 Ask me about **Front-End Development, Back-End APIs, Database Design, and Web Solutions**
-- 📫 How to reach me: **nicolasmramos09@gmail.com**
-- 📄 I'm constantly growing my skills through hands-on projects and continuous learning
+I'm a passionate Full Stack Developer from **Brazil** 🇧🇷 with a strong foundation in building scalable web applications. I combine clean code, modern technologies, and best practices to create solutions that make a real impact.
+
+- **Currently Working On:** CEO (Centro Espírita Online) - Spiritual community management platform
+- **Learning:** React Native, Cloud Architecture & DevOps
+- **Expertise:** JavaScript, TypeScript, React, Node.js, C#, Python, Java
+- **Focus:** Full Stack Development, API Design, Database Architecture, Web Solutions
+- **Blog:** [Medium](https://medium.com/@nicolasmramos09) - Sharing development insights
+- **Location:** Brazil 🌎
 
 ---
 
@@ -24,121 +40,87 @@
 
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
-| [CEO - Centro Espírita Online](https://github.com/nickmenegussi) | TypeScript, React, Node.js | Platform for spiritual community management |
-| [Dishes Restaurant](https://github.com/nickmenegussi/DishesRestaurant_VibeCoding) | TypeScript, React | Restaurant management system with modern UI |
-| [API Controle de Estoque](https://github.com/nickmenegussi/ApiControleDeEstoque) | C# | Inventory management REST API |
-| [Forum](https://github.com/nickmenegussi/Forum) | JavaScript, Node.js | Full-featured forum platform |
-| [Chat Online](https://github.com/nickmenegussi/chat-online) | JavaScript, WebSocket | Real-time chat application |
-| [Landing Page SEGD](https://github.com/nickmenegussi/LandingPageSEGD) | TypeScript, React | Professional landing page |
+| **CEO - Centro Espírita Online** | TypeScript, React, Node.js, PostgreSQL | Spiritual community platform with real-time features |
+| **Dishes Restaurant** | TypeScript, React | Restaurant management system with modern UI |
+| **API Controle de Estoque** | C#, .NET, SQL Server | Enterprise inventory management REST API |
+| **Forum Platform** | JavaScript, Node.js, Express | Scalable forum with authentication |
+| **Chat Online** | JavaScript, WebSocket, Node.js | Real-time messaging application |
+| **Landing Page SEGD** | TypeScript, React, Tailwind CSS | Professional landing page |
 
 ---
 
-## 🛠️ Languages and Tools
+## 💻 Tech Stack
 
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react-native" width="40" height="40"/>
-  </a>
-  
-  <!-- Backend -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-  <!-- Styling & UI -->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-  <!-- Tools & Databases -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-</p>
+### 🗄️ Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickmenegussi&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickmenegussi&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickmenegussi&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nickmenegussi&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickmenegussi&theme=dark" alt="GitHub Streak"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nickmenegussi&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/nicolas-menegussi-85b933293" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://medium.com/@nicolasmramos09" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40"/>
-  </a>
-  <a href="mailto:nicolasmramos09@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Gmail" height="30" width="40"/>
-  </a>
-</p>
-
----
-
-## 💡 What I'm Working On
+## 🚀 What I'm Working On
 
 - 🔨 Building scalable Full Stack applications
-- 📚 Mastering React Native for mobile development
+- 📱 Mastering React Native for mobile development
 - 🏗️ Exploring cloud architecture patterns
-- 🔍 Improving code quality and best practices
+- 📚 Creating technical content on Medium
+- 🔍 Improving code quality and testing practices
 
 ---
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nickmenegussi/nickmenegussi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nickmenegussi/nickmenegussi/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nickmenegussi/nickmenegussi/output/github-contribution-grid-snake.svg">
-</picture>
+## 🎓 My Approach
+
+I believe in:
+- ✅ Writing clean, maintainable code
+- ✅ Following best practices and design patterns
+- ✅ Continuous learning and growth
+- ✅ Collaboration and knowledge sharing
+- ✅ Building solutions that create real impact
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=0D1117" />
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0D1117" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nickmenegussi/nickmenegussi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nickmenegussi/nickmenegussi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nickmenegussi/nickmenegussi/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <p><strong>💡 If you find my work interesting, feel free to star some projects and connect with me! 🚀</strong></p>
 </div>
